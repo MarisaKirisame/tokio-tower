@@ -141,6 +141,7 @@
 )]
 #![allow(clippy::type_complexity)]
 #![feature(type_alias_impl_trait)]
+#![feature(impl_trait_in_assoc_type)]
 
 const YIELD_EVERY: usize = 24;
 
